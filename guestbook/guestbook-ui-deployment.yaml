@@ -17,4 +17,4 @@ spec:
         - image: twalter/openshift-nginx 
           name: guestbook-ui
           ports:
-            - containerPort: 8080
+            - containerPort: 80
